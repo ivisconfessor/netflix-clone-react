@@ -35,13 +35,13 @@ footer {
 
 footer a {
   text-decoration: none;
-  color: #999;
+  color: #DB202C;
   font-weight: bold;
   background-color: #FFF;
 }
 
 footer a:hover {
-  color: #46d369;
+  color: #1B7013;
 }
 
 footer a:visited {
