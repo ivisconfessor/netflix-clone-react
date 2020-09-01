@@ -9,14 +9,14 @@
 NetFlix Clone
 </h1>
 
-<p>
+<p align="center">
     Mais uma de ReactJS, desta vez desenvolvi um clone de uma das páginas do NetFlix.<br />
-    Projeto muito legal, feito durante a Live do <a style="font-weight:bold;" href="https://github.com/bonieky">Bonieky Lacerda</a> da <a style="font-weight:bold;" href="https://www.linkedin.com/company/b7web/">(B7Web)</a>.
+    Projeto muito legal, feito durante a Live do <strong><a href="https://github.com/bonieky">Bonieky Lacerda</a></strong> da <strong><a href="https://www.linkedin.com/company/b7web/">(B7Web)</a></strong>.
     <br />
-    Neste projeto foi consumida uma API externa do site <a style="font-weight:bold;" href="https://www.themoviedb.org/">Themoviedb.com</a> para exibição dos filmes e séries, utilizando-se das manipulações de estados com o useState do React.
+    Neste projeto foi consumida uma API externa do site <strong><a href="https://www.themoviedb.org/">Themoviedb.com</a></strong> para exibição dos filmes e séries, utilizando-se das manipulações de estados com o useState do React.
 </p>
 
-<div>
+<div align="center">
     <img src="./github/NetFlixCloneWeb.gif"
     alt="demo-web" height="425" />
     <img src="./github/NetFlixCloneMobile.gif"
@@ -25,7 +25,7 @@ NetFlix Clone
 
 <hr />
 
-<div style="margin: 25px 0;">
+<div align="center">
 
 ## 🚀 Tecnologias usadas:
 
@@ -43,10 +43,10 @@ NetFlix Clone
 
 <hr />
 
-<footer style="margin: 25px 0;">
-    Feito com <span role="img" aria-label="coração">❤️</span> por <a style="font-weight:bold;" href="https://github.com/ivisconfessor" target="_black">Ivís Confessor</a> 
-    <br/>com a orientação do <a style="font-weight:bold;" href="https://github.com/bonieky" target="_black">
-    Bonieky Larceda</a> durante a Live <span role="img" aria-label="fogo">🔥</span> Clone do NETFLIX em REACTJS para Iniciantes <strong> em 24/08/2020</strong><br/><br/>
+<footer align="center">
+    Feito com <span role="img" aria-label="coração">❤️</span> por <strong><a href="https://github.com/ivisconfessor" target="_black">Ivís Confessor</a></strong> 
+    <br/>com a orientação do <strong><a href="https://github.com/bonieky" target="_black">
+    Bonieky Larceda</a></strong> durante a Live <span role="img" aria-label="fogo">🔥</span> Clone do NETFLIX em REACTJS para Iniciantes <strong> em 24/08/2020</strong><br/><br/>
     Direitos de imagem para Netflix<br/>
     Dados pegos do site Themoviedb.org
 </footer>
