@@ -1,4 +1,6 @@
-<link rel="stylesheet" type="text/css" href="./github/Readme.css">
+<head>
+    <link rel="stylesheet" type="text/css" href="./github/Readme.css">
+<head>
 
 <h1>
 <br>
@@ -12,6 +14,7 @@ NetFlix Clone
 </h1>
 
 <p>
+    Mais uma de ReactJS, desta vez desenvolvi um clone de uma das páginas do NetFlix.<br />
     Projeto muito legal, feito durante a Live do <a href="https://github.com/bonieky">Bonieky Lacerda</a> da <a href="https://www.linkedin.com/company/b7web/">(B7Web)</a>.
     <br />
     Neste projeto foi consumida uma API externa do site <a href="https://www.themoviedb.org/">Themoviedb.com</a> para exibição dos filmes e séries, utilizando-se das manipulações de estados com o useState do React.
