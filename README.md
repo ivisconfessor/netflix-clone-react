@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 <h1 align="center">
-=======
-<section align="center">
-
-<h1>
->>>>>>> d49b2efe6700b591c35698388f328cf49bbdc1ce
 <br>
     <img 
         src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png" 
@@ -55,10 +49,4 @@ NetFlix Clone
     Bonieky Larceda</a> durante a Live <span role="img" aria-label="fogo">🔥</span> Clone do NETFLIX em REACTJS para Iniciantes <strong> em 24/08/2020</strong><br/><br/>
     Direitos de imagem para Netflix<br/>
     Dados pegos do site Themoviedb.org
-<<<<<<< HEAD
 </footer>
-=======
-</footer>
-
-</section>
->>>>>>> d49b2efe6700b591c35698388f328cf49bbdc1ce
