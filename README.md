@@ -43,10 +43,10 @@ NetFlix Clone
 
 <hr />
 
-<footer align="center">
+<div align="center">
     Feito com <span role="img" aria-label="coração">❤️</span> por <strong><a href="https://github.com/ivisconfessor" target="_black">Ivís Confessor</a></strong> 
     <br/>com a orientação do <strong><a href="https://github.com/bonieky" target="_black">
     Bonieky Larceda</a></strong> durante a Live <span role="img" aria-label="fogo">🔥</span> Clone do NETFLIX em REACTJS para Iniciantes <strong> em 24/08/2020</strong><br/><br/>
     Direitos de imagem para Netflix<br/>
     Dados pegos do site Themoviedb.org
-</footer>
+</div>
