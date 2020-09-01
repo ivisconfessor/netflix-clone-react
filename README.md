@@ -2,7 +2,33 @@
 <html>
 
 <head>
-    <link rel="stylesheet" type="text/css" href="./github/Readme.css">
+    <style type="text/css">
+        body{
+            font-size: 1.3rem;
+            text-align: center;    
+        }
+        p a {
+            font-weight: bold;
+        }
+        .divTechnologies {
+            margin: 25px 0;
+        }
+        footer {
+            margin: 25px 0;
+        }
+        footer a {
+            text-decoration: none;
+            color: #DB202C;
+            font-weight: bold;
+            background-color: #FFF;
+        }
+        footer a:hover {
+            color: #1B7013;
+        }
+        footer a:visited {
+            color: darkviolet;
+        }               
+    </style>
 <head>
 
 <body>
