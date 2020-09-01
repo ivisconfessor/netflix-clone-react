@@ -1,7 +1,11 @@
+<!DOCTYPE html>
+<html>
+
 <head>
     <link rel="stylesheet" type="text/css" href="./github/Readme.css">
 <head>
 
+<body>
 <h1>
 <br>
     <img 
@@ -45,7 +49,6 @@ NetFlix Clone
 
 </div>
 
-
 <hr />
 
 <footer>
@@ -55,3 +58,6 @@ NetFlix Clone
     Direitos de imagem para Netflix<br/>
     Dados pegos do site Themoviedb.org
 </footer>
+
+</body>
+</html>
