@@ -1,4 +1,4 @@
-<section style="font-size:1.3rem; text-align:center;">
+<section align="center">
 
 <h1>
 <br>
