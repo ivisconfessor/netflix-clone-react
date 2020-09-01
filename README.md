@@ -1,37 +1,5 @@
-<!DOCTYPE html>
-<html>
+<section style="font-size:1.3rem; text-align:center;">
 
-<head>
-    <style type="text/css">
-        body{
-            font-size: 1.3rem;
-            text-align: center;    
-        }
-        p a {
-            font-weight: bold;
-        }
-        .divTechnologies {
-            margin: 25px 0;
-        }
-        footer {
-            margin: 25px 0;
-        }
-        footer a {
-            text-decoration: none;
-            color: #DB202C;
-            font-weight: bold;
-            background-color: #FFF;
-        }
-        footer a:hover {
-            color: #1B7013;
-        }
-        footer a:visited {
-            color: darkviolet;
-        }               
-    </style>
-<head>
-
-<body>
 <h1>
 <br>
     <img 
@@ -45,21 +13,21 @@ NetFlix Clone
 
 <p>
     Mais uma de ReactJS, desta vez desenvolvi um clone de uma das páginas do NetFlix.<br />
-    Projeto muito legal, feito durante a Live do <a href="https://github.com/bonieky">Bonieky Lacerda</a> da <a href="https://www.linkedin.com/company/b7web/">(B7Web)</a>.
+    Projeto muito legal, feito durante a Live do <a style="font-weight:bold;" href="https://github.com/bonieky">Bonieky Lacerda</a> da <a style="font-weight:bold;" href="https://www.linkedin.com/company/b7web/">(B7Web)</a>.
     <br />
-    Neste projeto foi consumida uma API externa do site <a href="https://www.themoviedb.org/">Themoviedb.com</a> para exibição dos filmes e séries, utilizando-se das manipulações de estados com o useState do React.
+    Neste projeto foi consumida uma API externa do site <a style="font-weight:bold;" href="https://www.themoviedb.org/">Themoviedb.com</a> para exibição dos filmes e séries, utilizando-se das manipulações de estados com o useState do React.
 </p>
 
-<div class="divGifsDemos">
+<div>
     <img src="./github/NetFlixCloneWeb.gif"
-    alt="demoGif-web" height="425" />
+    alt="demo-web" height="425" />
     <img src="./github/NetFlixCloneMobile.gif"
-    alt="demoGif-mobile" height="425" />
+    alt="demo-mobile" height="425" />
 </div>
 
 <hr />
 
-<div class="divTechnologies">
+<div style="margin: 25px 0;">
 
 ## 🚀 Tecnologias usadas:
 
@@ -77,13 +45,12 @@ NetFlix Clone
 
 <hr />
 
-<footer>
-    Feito com <span role="img" aria-label="coração">❤️</span> por <a href="https://github.com/ivisconfessor" target="_black">Ivís Confessor</a> 
-    <br/>com a orientação do <a href="https://github.com/bonieky" target="_black">
+<footer style="margin: 25px 0;">
+    Feito com <span role="img" aria-label="coração">❤️</span> por <a style="font-weight:bold;" href="https://github.com/ivisconfessor" target="_black">Ivís Confessor</a> 
+    <br/>com a orientação do <a style="font-weight:bold;" href="https://github.com/bonieky" target="_black">
     Bonieky Larceda</a> durante a Live <span role="img" aria-label="fogo">🔥</span> Clone do NETFLIX em REACTJS para Iniciantes <strong> em 24/08/2020</strong><br/><br/>
     Direitos de imagem para Netflix<br/>
     Dados pegos do site Themoviedb.org
 </footer>
 
-</body>
-</html>
+</section>
