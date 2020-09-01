@@ -1,6 +1,4 @@
-<section style="font-size:1.3rem; text-align:center;">
-
-<h1>
+<h1 align="center">
 <br>
     <img 
         src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png" 
@@ -52,5 +50,3 @@ NetFlix Clone
     Direitos de imagem para Netflix<br/>
     Dados pegos do site Themoviedb.org
 </footer>
-
-</section>
