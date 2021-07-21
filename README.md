@@ -11,7 +11,7 @@ NetFlix Clone
 
 <p align="center">
     Clique no link a seguir para acessar a aplicação: 
-    <strong><a href="https://netflixclone.vercel.app/">netflixclone.vercel.app</a></strong>
+    <strong><a href="https://netflixclone.vercel.app/" target="_blank">netflixclone.vercel.app</a></strong>
 </p>
 
 <p align="center">
