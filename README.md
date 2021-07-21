@@ -9,6 +9,8 @@
 NetFlix Clone
 </h1>
 
+<p>Link para acessar a aplicação: <strong><a>https://netflixclone.vercel.app/</a></strong></p>
+
 <p align="center">
     Mais uma de ReactJS, desta vez desenvolvi um clone de uma das páginas do NetFlix.<br />
     Projeto muito legal, feito durante a Live do <strong><a href="https://github.com/bonieky">Bonieky Lacerda</a></strong> da <strong><a href="https://www.linkedin.com/company/b7web/">(B7Web)</a></strong>.
