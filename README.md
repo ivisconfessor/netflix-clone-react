@@ -9,7 +9,10 @@
 NetFlix Clone
 </h1>
 
-<p>Link para acessar a aplicação: <strong><a>https://netflixclone.vercel.app/</a></strong></p>
+<p>
+    Clique no link a seguir para acessar a aplicação: 
+    <strong><a href="https://netflixclone.vercel.app/">netflixclone.vercel.app</a></strong>
+</p>
 
 <p align="center">
     Mais uma de ReactJS, desta vez desenvolvi um clone de uma das páginas do NetFlix.<br />
